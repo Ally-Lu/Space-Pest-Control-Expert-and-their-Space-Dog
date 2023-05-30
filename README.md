@@ -15,7 +15,7 @@ This is a simple shooting game written in p5.js.
 [↳遊戲連結↲](https://ally-lu.github.io/Space-Pest-Control-Expert-and-their-Space-Dog/)
 # 作業答案
 ## 產生多個元件(class)
-[![](https://hackmd.io/_uploads/B1L9pZ7U3.png)](https://youtu.be/qvdTK_F93Gs "太空害蟲生成")
+[![](https://markdown-videos.deta/youtube/qvdTK_F93Gs)](https://youtu.be/qvdTK_F93Gs "太空害蟲生成")
 
 #### 程式碼
 ```javascript=
