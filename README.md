@@ -1,5 +1,6 @@
 # Space-Pest-Control-Expert-and-their-Space-Dog
 This is a simple shooting game written in p5.js.
+
 [⇒遊戲連結⇐](https://ally-lu.github.io/Space-Pest-Control-Expert-and-their-Space-Dog/)
 # 太空除蟲專家與他的太空狗狗
 ![](https://i.imgur.com/rfuRM53.png)
@@ -10,6 +11,7 @@ This is a simple shooting game written in p5.js.
 * 飛船碰撞到太空害蟲，害蟲會死掉，但會扣5分
 * 太空害蟲逃出遊戲視窗也會扣10分
 * 當分數歸零時遊戲結束
+
 [↳遊戲連結↲](https://ally-lu.github.io/Space-Pest-Control-Expert-and-their-Space-Dog/)
 # 作業答案
 ## 產生多個元件(class)
