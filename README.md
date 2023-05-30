@@ -1,6 +1,12 @@
 # Space-Pest-Control-Expert-and-their-Space-Dog
 This is a simple shooting game written in p5.js.
 # 太空除蟲專家與他的太空狗狗
+玩家將扮演一位太空除蟲專家，太空狗狗們是玩家的好夥伴。
+* 射擊到太空狗狗將會被扣5分
+* 擊殺太空害蟲可以獲得10分
+* 飛船碰撞到太空害蟲，害蟲會死掉，但會扣5分
+* 太空害蟲逃出遊戲視窗也會扣10分
+* 當分數歸零時遊戲結束
 # 作業答案
 ## 產生多個元件(class)
 ![](https://hackmd.io/_uploads/B1L9pZ7U3.png)
