@@ -1,6 +1,7 @@
 # Space-Pest-Control-Expert-and-their-Space-Dog
 This is a simple shooting game written in p5.js.
 # 太空除蟲專家與他的太空狗狗
+![](https://i.imgur.com/rfuRM53.png)
 玩家將扮演一位太空除蟲專家，太空狗狗們是玩家的好夥伴。
 * 射擊到太空狗狗將會被扣5分
 * 擊殺太空害蟲可以獲得10分
