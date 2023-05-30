@@ -15,7 +15,7 @@ This is a simple shooting game written in p5.js.
 [↳遊戲連結↲](https://ally-lu.github.io/Space-Pest-Control-Expert-and-their-Space-Dog/)
 # 作業答案
 ## 產生多個元件(class)
-[![](https://markdown-videos.deta/youtube/qvdTK_F93Gs)](https://youtu.be/qvdTK_F93Gs "太空害蟲生成")
+![](https://hackmd.io/_uploads/B1L9pZ7U3.png)
 
 #### 程式碼
 ```javascript=
@@ -351,7 +351,7 @@ class Player {
 ### 產生20個相同class的元件
 #### 以class Ally為例生成20隻太空狗狗
 執行後的圖片
-[![](https://hackmd.io/_uploads/HyoFczmIh.png)](https://youtu.be/VbWW-rnXhrA "生成20隻太空狗狗")
+![](https://hackmd.io/_uploads/HyoFczmIh.png)
 
 實際的程式碼
 ```javascript=
@@ -415,7 +415,7 @@ class Ally { // class 定義了物件的屬性（資料）和方法（行為）
 
 #### 以class Ally為例生成20隻大小、移動方向、速度不同的太空狗狗。
 執行後的圖片
-[![](https://hackmd.io/_uploads/Bk05emmIh.png)](https://youtu.be/UpyS0jZCUxU "生成20隻大小、速度、方向不同的太空狗狗")
+![](https://hackmd.io/_uploads/Bk05emmIh.png)
 
 實際的程式碼
 ```javascript=
@@ -503,7 +503,7 @@ class Ally {
 
 ## 滑鼠按下之後，消失不見
 #### 以class Enemy為例，滑鼠左鍵點擊昆蟲後消失並移出陣列。
-[![](https://hackmd.io/_uploads/Sk7wpQmUh.png)](https://youtu.be/ebKk3OGsVvE "滑鼠點擊除掉太空害蟲")
+![](https://hackmd.io/_uploads/Sk7wpQmUh.png)
 ![](https://hackmd.io/_uploads/B1jP67XLh.png)
 
 實際的程式碼
@@ -591,7 +591,7 @@ class Enemy {
 ---
 
 ## 發射子彈
-[![](https://hackmd.io/_uploads/SySHW4mIn.png)](https://youtu.be/04Q_xk89hIc "太空船發射子彈")
+![](https://hackmd.io/_uploads/SySHW4mIn.png)
 
 實際的程式碼
 ```javascript=
@@ -740,7 +740,7 @@ class Player {
 ---
 
 ## 物件消失不見
-[![](https://hackmd.io/_uploads/Skfl7V7Lh.png)](https://youtu.be/z3oIai2hSD0 "尚未加入計分機制的遊戲DEMO")
+![](https://hackmd.io/_uploads/Skfl7V7Lh.png)
 
 實際的程式碼
 ```javascript=
@@ -908,7 +908,7 @@ function keyReleased() { // keyReleased() 是按鍵釋放事件的處理函式
 ---
 
 ## 計算得分
-[![](https://hackmd.io/_uploads/HkRJNE7Lh.png)](https://youtu.be/JCkoSLUv0Qw "加入計分機制")
+![](https://hackmd.io/_uploads/HkRJNE7Lh.png)
 
 實際的程式碼
 ```javascript=
@@ -1088,7 +1088,7 @@ function keyReleased() { // keyReleased() 是按鍵釋放事件的處理函式
 ---
 
 ## 結束後顯示畫面
-[![](https://hackmd.io/_uploads/Sy_PEEXL2.png)](https://youtu.be/6SIg97-t0Hc "完整遊戲DEMO")
+![](https://hackmd.io/_uploads/Sy_PEEXL2.png)
 
 實際的程式碼
 ```javascript=
