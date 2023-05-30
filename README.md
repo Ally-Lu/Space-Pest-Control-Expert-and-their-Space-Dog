@@ -16,6 +16,9 @@ This is a simple shooting game written in p5.js.
 # 作業答案
 ## 產生多個元件(class)
 ![](https://hackmd.io/_uploads/B1L9pZ7U3.png)
+<iframe width="600" height="800" src="https://www.youtube.com/embed/qvdTK_F93Gs" title="【p5.js練習】怪物生成" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### 程式碼
 ```javascript=
 // 宣告陣列
 let enemies = [];
@@ -350,6 +353,8 @@ class Player {
 #### 以class Ally為例生成20隻太空狗狗
 執行後的圖片
 ![](https://hackmd.io/_uploads/HyoFczmIh.png)
+<iframe width="600" height="800" src="https://www.youtube.com/embed/VbWW-rnXhrA" title="【p5.js練習】一次生成20隻太空狗狗" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 實際的程式碼
 ```javascript=
 let allies = []; //友軍的陣列，生成的太空狗狗們會在這裡
@@ -413,6 +418,8 @@ class Ally { // class 定義了物件的屬性（資料）和方法（行為）
 #### 以class Ally為例生成20隻大小、移動方向、速度不同的太空狗狗。
 執行後的圖片
 ![](https://hackmd.io/_uploads/Bk05emmIh.png)
+<iframe width="600" height="801" src="https://www.youtube.com/embed/UpyS0jZCUxU" title="【p5.js練習】生成20隻大小、速度、方向不同的太空狗狗" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 實際的程式碼
 ```javascript=
 let allies = []; //友軍的陣列，生成的太空狗狗們會在這裡
@@ -501,6 +508,8 @@ class Ally {
 #### 以class Enemy為例，滑鼠左鍵點擊昆蟲後消失並移出陣列。
 ![](https://hackmd.io/_uploads/Sk7wpQmUh.png)
 ![](https://hackmd.io/_uploads/B1jP67XLh.png)
+<iframe width="600" height="801" src="https://www.youtube.com/embed/ebKk3OGsVvE" title="【p5.js練習】滑鼠點擊除掉太空害蟲" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 實際的程式碼
 ```javascript=
 // 宣告全域變數
@@ -587,6 +596,8 @@ class Enemy {
 
 ## 發射子彈
 ![](https://hackmd.io/_uploads/SySHW4mIn.png)
+<iframe width="600" height="801" src="https://www.youtube.com/embed/04Q_xk89hIc" title="【p5.js練習】太空船發射子彈" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 實際的程式碼
 ```javascript=
 // 宣告全域變數
@@ -735,6 +746,8 @@ class Player {
 
 ## 物件消失不見
 ![](https://hackmd.io/_uploads/Skfl7V7Lh.png)
+<iframe width="600" height="801" src="https://www.youtube.com/embed/z3oIai2hSD0" title="【p5.js練習】尚未加入計分機制的DEMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 實際的程式碼
 ```javascript=
 // 宣告全域變數
@@ -902,6 +915,8 @@ function keyReleased() { // keyReleased() 是按鍵釋放事件的處理函式
 
 ## 計算得分
 ![](https://hackmd.io/_uploads/HkRJNE7Lh.png)
+<iframe width="600" height="801" src="https://www.youtube.com/embed/JCkoSLUv0Qw" title="【p5.js練習】加入計分機制" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 實際的程式碼
 ```javascript=
 // 宣告全域變數
@@ -1081,6 +1096,8 @@ function keyReleased() { // keyReleased() 是按鍵釋放事件的處理函式
 
 ## 結束後顯示畫面
 ![](https://hackmd.io/_uploads/Sy_PEEXL2.png)
+<iframe width="600" height="801" src="https://www.youtube.com/embed/6SIg97-t0Hc" title="【p5.js練習】完整遊戲DEMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 實際的程式碼
 ```javascript=
 // 宣告全域變數
